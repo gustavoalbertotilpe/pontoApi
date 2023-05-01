@@ -9,7 +9,7 @@ Versão do laravel 10
 Banco de dados Mysql 
 
 1ª Clone este repositorio
-2ª execute o comando composer update
+2ª execute o comando composer update <br/>
 3ª Configure o arquivo .env com as conf do Banco
 4ª Rode o comando o comando php artisan migrate:refresh
 5ª Rode o comando php db:seed 

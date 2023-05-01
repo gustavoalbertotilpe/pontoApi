@@ -16,7 +16,7 @@ Banco de dados Mysql
 
 4ª Rode o comando o comando php artisan migrate:refresh
 
-5ª Rode o comando php db:seed 
+5ª Rode o comando php artisan db:seed 
 
 6ª Rode o comando php artisan serve 
 

@@ -10,15 +10,17 @@ Banco de dados Mysql
 
 1ª Clone este repositorio
 
-2ª execute o comando composer update 
+2ª Rode o comando composer update 
 
-3ª Configure o arquivo .env com as conf do Banco
+4ª Rode o comando php artisan jwt:secret
 
-4ª Rode o comando o comando php artisan migrate:refresh
+5ª Configure o arquivo .env com as conf do Banco
 
-5ª Rode o comando php artisan db:seed 
+6ª Rode o comando o comando php artisan migrate:refresh
 
-6ª Rode o comando php artisan serve 
+7ª Rode o comando php artisan db:seed 
+
+8ª Rode o comando php artisan serve 
 
 A api no front esta configurado para o endpoint http://localhost:8000/api verfique a porta que esta rodando o backend.
 
